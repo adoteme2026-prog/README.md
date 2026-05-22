@@ -72,6 +72,13 @@ A arquitetura do backend foi desenhada utilizando **Programação Orientada a Ob
 
 ## 👥 Desenvolvedores e Parcerias
 
-* **Desenvolvimento de Software:** Henrique e Equipe de ADS 💻
+* **Desenvolvimento de Software:** 💻
+  * Anthony
+  * Arthur
+  * Fabricio
+  * Gabriel
+  * Henrique
+  * Otavio
+  * Yuri
 * **Apoio Técnico:** Estudantes de Medicina Veterinária 🩺
 * **Instituição:** Centro Universitário Facens (Sorocaba/SP) 🎓
