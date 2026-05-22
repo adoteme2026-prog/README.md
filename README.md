@@ -5,10 +5,20 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/POO-Paradigm-blue?style=for-the-badge" alt="POO" />
+  <a href="https://adote-me-now.base44.app" target="_blank">
+    <img src="https://img.shields.io/badge/Acessar%20o%20App-Base44-blue?style=for-the-badge&logo=googleplay" alt="Acessar App" />
+  </a>
+  <a href="https://adopt-match-maker.lovable.app" target="_blank">
+    <img src="https://img.shields.io/badge/Landing%20Page-Lovable-blueviolet?style=for-the-badge&logo=vercel" alt="Landing Page" />
+  </a>
   <img src="https://img.shields.io/badge/Facens-Academic%20Project-red?style=for-the-badge" alt="Facens" />
 </p>
+
+---
+
+## 🔗 Links do Projeto
+* **Aplicativo Oficial:** [adote-me-now.base44.app](https://adote-me-now.base44.app)
+* **Landing Page:** [adopt-match-maker.lovable.app](https://adopt-match-maker.lovable.app)
 
 ---
 
@@ -21,7 +31,7 @@ O **AdoteMe** é uma aplicação desenvolvida como iniciativa acadêmica que bus
 ## 🚀 Diferenciais do Ecossistema
 
 ### 👨‍⚕️ Triagem e Gestão Clínica por Níveis de Risco
-O sistema categoriza o estado de saúde dos animais em 3 níveis distintos para otimizar o atendimento e integrar estudantes de graduação:
+O sistema categoriza o estado de saúde dos animais in 3 níveis distintos para otimizar o atendimento e integrar estudantes de graduação:
 
 <table width="100%">
   <thead>
@@ -59,14 +69,12 @@ Uma solução de logística reversa e engajamento comunitário estruturada para 
 
 ---
 
-## 🛠️ Aspectos Técnicos
+## 🛠️ Stack Tecnológica
 
-A arquitetura do backend foi desenhada utilizando **Programação Orientada a Objetos (POO)** em **Java**, garantindo alta escalabilidade, separação de responsabilidades e reutilização de código.
+Para garantir um ciclo de desenvolvimento ágil, focado em uma interface moderna (UI/UX) e na entrega rápida de um MVP (Mínimo Produto Viável) funcional, o ecossistema utiliza:
 
-### Entidades Principais:
-* `Animal`: Armazena o prontuário digital integrado, nível de risco e histórico de vacinas.
-* `Usuario`: Classe base para a gestão de acessos, estendida para perfis de Adotantes, ONGs e Estudantes/Veterinários.
-* `Doacao`: Controla o fluxo de arrecadação de insumos e histórico de campanhas da Ração Solidária.
+* **Lovable:** Engenharia de prompts e geração inteligente de componentes full-stack para acelerar o desenvolvimento da interface frontend inspirada em redes sociais.
+* **Base44:** Estruturação da lógica de negócios, gerenciamento de banco de dados e integração dos fluxos do aplicativo móvel.
 
 ---
 
