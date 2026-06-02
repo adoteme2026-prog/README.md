@@ -85,7 +85,7 @@ Para garantir um ciclo de desenvolvimento ágil, focado em uma interface moderna
   * [Arthur Porta Soares](https://br.linkedin.com/in/arthur-porta-soares-47aab0334)
   * [Fabrício Santos de Souza](https://www.linkedin.com/in/fabricio-santos-de-souza-aab742306)
   * Gabriel
-  * .[Henrique](https://www.linkedin.com/in/hsnitsche?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+  * [Henrique](https://www.linkedin.com/in/hsnitsche?utm_source=share_via&utm_content=profile&utm_medium=member_android)
   * [Otávio Campos Florentino](https://www.linkedin.com/in/otavio-campos-florentino-36346a3b7)
   * [Yuri Borges](https://www.linkedin.com/in/yuri-borges-b8bb5b302)
 * **Apoio Técnico:** Estudantes de Medicina Veterinária 🩺
