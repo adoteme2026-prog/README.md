@@ -75,7 +75,7 @@ O sistema categoriza o estado de saúde dos animais em 3 níveis distintos para 
   * [Anthony Gustavo de Oliveira dos Santos Lima](https://www.linkedin.com/in/anthony-gustavo-de-oliveira-dos-santos-lima-024371336)
   * [Arthur Porta Soares](https://br.linkedin.com/in/arthur-porta-soares-47aab0334)
   * [Fabrício Santos de Souza](https://www.linkedin.com/in/fabricio-santos-de-souza-aab742306)
-  * Gabriel
+  * [Gabriel Schimidt](https://www.linkedin.com/in/gabrielschimidtt/)
   * [Henrique Sanda Nitsche](https://github.com/hsnitsche) *(Você)*
   * [Otávio Campos Florentino](https://www.linkedin.com/in/otavio-campos-florentino-36346a3b7)
   * [Yuri Borges](https://www.linkedin.com/in/yuri-borges-b8bb5b302)
