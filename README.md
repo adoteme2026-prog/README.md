@@ -31,7 +31,7 @@ O **AdoteMe** é uma aplicação desenvolvida como iniciativa acadêmica que bus
 ## 🚀 Diferenciais do Ecossistema
 
 ### 👨‍⚕️ Triagem e Gestão Clínica por Níveis de Risco
-O sistema categoriza o estado de saúde dos animais in 3 níveis distintos para otimizar o atendimento e integrar estudantes de graduação:
+O sistema categoriza o estado de saúde dos animais em 3 níveis distintos para otimizar o atendimento e integrar estudantes de graduação:
 
 <table width="100%">
   <thead>
@@ -81,12 +81,12 @@ Para garantir um ciclo de desenvolvimento ágil, focado em uma interface moderna
 ## 👥 Desenvolvedores e Parcerias
 
 * **Desenvolvimento de Software:** 💻
-  * Anthony
-  * Arthur
-  * Fabricio
+  * [Anthony Gustavo de Oliveira dos Santos Lima](https://www.linkedin.com/in/anthony-gustavo-de-oliveira-dos-santos-lima-024371336)
+  * [Arthur Porta Soares](https://br.linkedin.com/in/arthur-porta-soares-47aab0334)
+  * [Fabrício Santos de Souza](https://www.linkedin.com/in/fabricio-santos-de-souza-aab742306)
   * Gabriel
-  * Henrique
-  * Otavio
-  * Yuri
+  * .[Henrique](https://www.linkedin.com/in/hsnitsche?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+  * [Otávio Campos Florentino](https://www.linkedin.com/in/otavio-campos-florentino-36346a3b7)
+  * [Yuri Borges](https://www.linkedin.com/in/yuri-borges-b8bb5b302)
 * **Apoio Técnico:** Estudantes de Medicina Veterinária 🩺
 * **Instituição:** Centro Universitário Facens (Sorocaba/SP) 🎓
