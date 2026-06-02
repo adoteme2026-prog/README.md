@@ -88,5 +88,5 @@ Para garantir um ciclo de desenvolvimento ágil, focado em uma interface moderna
   * [Henrique](https://www.linkedin.com/in/hsnitsche?utm_source=share_via&utm_content=profile&utm_medium=member_android)
   * [Otávio Campos Florentino](https://www.linkedin.com/in/otavio-campos-florentino-36346a3b7)
   * [Yuri Borges](https://www.linkedin.com/in/yuri-borges-b8bb5b302)
-* **Apoio Técnico:** Estudantes de Medicina Veterinária 🩺
+* **Apoio Técnico:** LIS(Laboratorio de inovação social)
 * **Instituição:** Centro Universitário Facens (Sorocaba/SP) 🎓
